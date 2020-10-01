@@ -1,6 +1,7 @@
-### Samuel Wallan's github account
+## Samuel Wallan's GitHub ⚡
 
-Check this out if you want to see direct contributions. For higher level descriptions, see swallan.github.io.
+I'm currently a third year software engineering major at Cal Poly, San Luis Obispo. Keep browsing here to get down into the weeds, or check out [swallan.github.io](https://swallan.github.io) for a higher level description of my recent contributions. 
+
 
 <!--
 **swallan/swallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
