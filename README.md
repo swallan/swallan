@@ -1,4 +1,6 @@
-### Hi there 👋
+### Samuel Wallan's github account
+
+Check this out if you want to see direct contributions. For higher level descriptions, see swallan.github.io.
 
 <!--
 **swallan/swallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
