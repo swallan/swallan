@@ -1,6 +1,7 @@
 ## Samuel Wallan's GitHub ⚡
 
-I'm currently a third year software engineering major at Cal Poly, San Luis Obispo. Currently I'm contributing to SciPy and working as a TA for an OOP design class. Keep browsing here to get down into the weeds, or check out [swallan.github.io](https://swallan.github.io) for a higher level description of my recent contributions. 
+I'm currently a fourth year software engineering major at Cal Poly, San Luis Obispo. I'm currently contributing to [SciPy](https://github.com/scipy/scipy), and in the past have worked as a Software Development Engineering Intern at Amazon AWS, an Instructional Student Assistant for an Object Oriented Programming and Design class, and as Student Web Developer for the Cal Poly Corporation. Keep browsing here to get down into the weeds, or check out [swallan.github.io](https://swallan.github.io) for a higher level description of my recent contributions. 
+
 
 
 <!--
